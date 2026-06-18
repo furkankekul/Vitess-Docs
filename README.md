@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://vitess.io/img/vitess_logo.svg" alt="Vitess Logo" width="200">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_kyuXXaKw0AoIVpBkgtMk_9tFt8wWchunb_NwyRFJQ&s=10" alt="Vitess Logo" width="200">
   
   # Vitess-Docs
   
