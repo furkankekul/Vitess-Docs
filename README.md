@@ -25,7 +25,7 @@ Vitess, YouTube’un bu mantığı uygulama kaynak kodundan kaldırmasına ve uy
 
 ### 🛠️ Ön Gereksinimler (Teorik Konular)
 
-Bu teknolojiye hakim olmadan önce tam olarak kavramış olmanız gereken teorik mimari konular aşağıda şematize edilmiştir:
+Bu teknolojiye hakim olmadan önce tam olarak kavramış olmanız gereken teorik mimari konular aşağıda şematize edilmiştir. Belirtilen teorik konuları Designing Data Intensive Application Kitabının 2. Kısmını okuyarak bu konulara hakimiyet ve derinlemesine bir bakış açısı kazanabilirsiniz.
 
 ```mermaid
 graph LR
